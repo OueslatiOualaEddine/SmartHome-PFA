@@ -51,3 +51,21 @@ This section describes the workflow and processes involved in managing customer 
   - Updating stock
 
 All processes are represented using BPMN standards with The Process Editor HEFLO.
+
+## Screenshots
+
+
+## Screenshots
+
+- **Web Application:** Screenshots related to the web application can be found in the `SmartHome-PFA-Dev.Web2` folder.
+- **Desktop Application:** Screenshots of each user interface for the desktop application are available in the `SmartHome-PFA-Framework.Net` folder.
+
+## Contributing
+
+If you wish to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+## Contact
+
+For any questions or feedback, please contact:
+- Oueslati Ouala Eddine: [oualaeddine.oueslati@esen.tn]
+- Zaouali Mahdi: [mahdi.zaouali@esen.tn]
