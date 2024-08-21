@@ -33,6 +33,3 @@ Here are some screenshots of the desktop application:
 
 ### Account Management Window
 ![Account Management Window](./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20210332.png)
-
-### Additional Interface
-![Additional Interface](./Screenshots/S%20Capture%20d’écran%202022-05-06%20210384.png)
