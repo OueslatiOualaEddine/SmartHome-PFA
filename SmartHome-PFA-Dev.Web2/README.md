@@ -29,12 +29,12 @@ Here are some screenshots of the web application:
 
 ### Product Listings
 
-![Capture n° 4-1](./screenshots/Capture%20n°%204-1.png)
+![Capture n° 4-1](./Screenshots/Capture%20n°%204-1.png)
 
-### User Account Pages
+### Login / Sign Up / User Account
 
 ![Page 1+2+3+4](./Screenshots/Page%201+2+3+4.jpg)
 
-### Order Management
+### Order Management / Cantact Sponsore
 
 ![Page 5 + 5-1 + 5-2 + 6](./Screenshots/Page%205%20+%205-1%20+%205-2%20+%206.jpg)
