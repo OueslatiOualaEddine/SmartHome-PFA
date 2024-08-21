@@ -21,3 +21,20 @@ This repository contains the code and assets for the web-based e-commerce applic
 
 ## Screenshots
 
+Here are some screenshots of the web application:
+
+### Homepage
+
+![Capture n° 1](./Screenshots/Capture%20n°%201.png)
+
+### Product Listings
+
+![Capture n° 4-1](./screenshots/Capture%20n°%204-1.png)
+
+### Order Management
+
+![Page 1+2+3+4](./Screenshots/Page%201+2+3+4.jpg)
+
+### User Account Pages
+
+![Page 5 + 5-1 + 5-2 + 6](./Screenshots/Page%205%20+%205-1%20+%205-2%20+%206.jpg)
