@@ -23,16 +23,16 @@ This repository contains the code and assets for the desktop application develop
 Here are some screenshots of the desktop application:
 
 ### Login Window
-![Login Window](./Screenshots/S%20Capture%20d’écran%202022-05-06%20204445.png)
+![Login Window](./Screenshots/S%20Capture%20d’%C3%A9cran%202022-05-06%20204445.png)
 
 ### Registration Window
-![Registration Window](./Screenshots/S%20Capture%20d’écran%202022-05-06%20204555.png)
+![Registration Window](./Screenshots/S%20Capture%20d’%C3%A9cran%202022-05-06%20204555.png)
 
 ### User Profile Window
-![User Profile Window](./Screenshots/S%20Capture%20d’écran%202022-05-06%20204745.png)
+![User Profile Window](./Screenshots/S%20Capture%20d’%C3%A9cran%202022-05-06%20204745.png)
 
 ### Account Management Window
-![Account Management Window](./Screenshots/S%20Capture%20d’écran%202022-05-06%20210332.png)
+![Account Management Window](./Screenshots/S%20Capture%20d’%C3%A9cran%202022-05-06%20210332.png)
 
 ### Additional Interface
 ![Additional Interface](./Screenshots/S%20Capture%20d’écran%202022-05-06%20210384.png)
