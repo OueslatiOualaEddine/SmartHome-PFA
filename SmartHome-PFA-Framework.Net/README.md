@@ -25,11 +25,10 @@ Here are some screenshots of the desktop application:
 ### Homepage Window
 ![Login Window](./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204445.png)
 
-### Login Window
-![Registration Window](./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204555.png)
-
-### Sign Up Window
-![User Profile Window](./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204745.png)
+| **Authentification / Login Window** | **Registration / Sign Up Window** |
+|------------------------------|--------------------------|
+| <img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204555.png" alt="Authentification / Login Window" width="250"/> | <img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204745.png" alt="Registration / Sign Up Window" width="250"/> |
 
 ### Account Management Window
 ![Account Management Window](./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20210332.png)
+
