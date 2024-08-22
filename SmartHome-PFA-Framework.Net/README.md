@@ -23,13 +23,13 @@ This repository contains the code and assets for the desktop application develop
 Here are some screenshots of the desktop application:
 
 ### Homepage Window
-<img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204445.png" alt="Homepage Window" width="350"/>
+<img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204445.png" alt="Homepage Window" width="400"/>
 
 | **Authentification / Login Window** | **Registration / Sign Up Window** |
 |------------------------------|--------------------------|
-| <img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204555.png" alt="Authentification / Login Window" width="350"/> | <img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204745.png" alt="Registration / Sign Up Window" width="350"/> |
+| <img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204555.png" alt="Authentification / Login Window" width="400"/> | <img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20204745.png" alt="Registration / Sign Up Window" width="400"/> |
 
 ### Account Management Window
-<img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20210332.png" alt="Account Management Window" width="350"/>
+<img src="./Screenshots/Capture%20d’%C3%A9cran%202022-05-06%20210332.png" alt="Account Management Window" width="400"/>
 
 
