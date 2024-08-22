@@ -23,18 +23,10 @@ This repository contains the code and assets for the web-based e-commerce applic
 
 Here are some screenshots of the web application:
 
-### Homepage
+| **Homepage / Authentification** | **Shop / Product Listings** |
+|-------------------------|--------------------------|
+| <img src="./Screenshots/Capture%20n°%201.png" alt="Homepage" width="400"/> | <img src="./Screenshots/Capture%20n°%204-1.png" alt="Product Listings" width="400"/> |
 
-![Capture n° 1](./Screenshots/Capture%20n°%201.png)
-
-### Product Listings
-
-![Capture n° 4-1](./Screenshots/Capture%20n°%204-1.png)
-
-### Login / Sign Up / User Account
-
-![Page 1+2+3+4](./Screenshots/Page%201+2+3+4.jpg)
-
-### Order Management / Cantact Sponsore
-
-![Page 5 + 5-1 + 5-2 + 6](./Screenshots/Page%205%20+%205-1%20+%205-2%20+%206.jpg)
+| **Login / Sign Up / User Account** | **Order Management / Cantact Sponsore** |
+|-------------------------|--------------------------|
+| <img src="./Screenshots/Page%201+2+3+4.jpg" alt="Authentification" width="400"/> | <img src="./Screenshots/Page%205%20+%205-1%20+%205-2%20+%206.jpg" alt="others" width="400"/> |
