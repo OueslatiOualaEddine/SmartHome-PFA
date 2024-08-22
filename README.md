@@ -54,9 +54,6 @@ All processes are represented using BPMN standards with The Process Editor HEFLO
 
 ## Screenshots
 
-
-## Screenshots
-
 - **Web Application:** Screenshots related to the web application can be found in the `SmartHome-PFA-Dev.Web2` folder.
 - **Desktop Application:** Screenshots of each user interface for the desktop application are available in the `SmartHome-PFA-Framework.Net` folder.
 
