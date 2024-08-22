@@ -25,8 +25,8 @@ Here are some screenshots of the web application:
 
 | **Homepage / Authentification** | **Shop / Product Listings** |
 |-------------------------|--------------------------|
-| <img src="./Screenshots/Capture%20n°%201.png" alt="Homepage" width="500"/> | <img src="./Screenshots/Capture%20n°%204-1.png" alt="Product Listings" width="500"/> |
+| <img src="./Screenshots/Capture%20n°%201.png" alt="Homepage" width="500" style="vertical-align: top;"/> | <img src="./Screenshots/Capture%20n°%204-1.png" alt="Product Listings" width="500" style="vertical-align: top;"/> |
 
 | **Login / Sign Up / User Account** | **Order Management / Cantact Sponsore** |
 |-------------------------|--------------------------|
-| <img src="./Screenshots/Page%201+2+3+4.jpg" alt="Authentification" width="500"/> | <img src="./Screenshots/Page%205%20+%205-1%20+%205-2%20+%206.jpg" alt="others" width="500"/> |
+| <img src="./Screenshots/Page%201+2+3+4.jpg" alt="Authentification" width="500" style="vertical-align: top;"/> | <img src="./Screenshots/Page%205%20+%205-1%20+%205-2%20+%206.jpg" alt="others" width="500" style="vertical-align: top;"/> |
